@@ -1,10 +1,11 @@
-// Конфігурація STUN/TURN серверів для пробивання NAT
-const peerConfiguration = {
+export const peerOptions = {
   config: {
     iceServers: [
+      // STUN сервери від Google
       { urls: 'stun:stun.l.google.com:19302' },
       { urls: 'stun:stun1.l.google.com:19302' },
       { urls: 'stun:stun2.l.google.com:19302' },
+      // TURN сервери для пробивання NAT/фаєрволів
       {
         urls: 'turn:openrelay.metered.ca:80',
         username: 'openrelay',
@@ -18,11 +19,3 @@ const peerConfiguration = {
     ]
   }
 };
-
-// Створення Peer з відловом помилок
-const peer = new Peer(peerConfiguration);
-
-// Виведення помилок PeerJS у консоль для діагностики
-peer.on('error', (err) => {
-  console.error('PeerJS Error:', err.type, err);
-});
