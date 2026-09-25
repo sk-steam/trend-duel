@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101115"><meta name="description" content="Two trends. One winner. Test your internet intuition in Trend Duel, the search-interest guessing game.">
+  <title>Trend Duel — Battle of the searches</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23d9ff65'/%3E%3Cpath d='M7 23V15h5v8m2 0V10h5v13m2 0V5h5v18' stroke='%23101115' stroke-width='3'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="./style.css"><script type="module" src="./app.js"></script>
+</head>
+<body>
+  <div class="shell">
+    <header><a class="brand" href="./" aria-label="Trend Duel home"><span class="brand-icon">▥</span> trend<span>duel</span><span class="brand-dot">®</span></a><div class="header-actions"><a class="quiet" href="./multiplayer.html" style="text-decoration:none">Multiplayer ↗</a><span class="edition">THE INTERNET, IN A GAME.</span><button class="quiet" id="help">How to play <span>↗</span></button></div></header>
+    <main>
+      <div class="topline"><span class="eyebrow"><span class="live-dot"></span> THE SEARCH IS ON</span><button class="data-badge" id="data">Demo dataset <span>ⓘ</span></button></div>
+      <div class="intro"><div><h1>Big trend.<br> <span>Bigger instinct.</span></h1><p>Which one had the world searching?</p></div><div class="mode-switch" role="group" aria-label="Game mode"><button id="duel-mode" class="active" aria-pressed="true">↗ Trend Duel</button><button id="calendar-mode" aria-pressed="false">▦ Guess the Peak</button></div></div>
+      <section class="game" aria-label="Trend guessing game">
+        <div class="session-bar"><span id="session-label">Endless session</span><div><button id="settings" class="session-button">Session settings</button><button id="end-session" class="session-button" disabled>End session</button></div></div>
+        <div class="scorebar"><div class="round-label">ROUND <strong id="round">01</strong><span id="total">/ ∞</span></div><div class="progress" id="progress" aria-label="Round progress"></div><div class="scores"><span>STREAK <strong id="streak">0 <span class="flame">ϟ</span></strong></span><span>SCORE <strong id="score">0</strong></span></div></div>
+        <div class="question-meta" id="meta"></div>
+        <h2 id="question">Which was searched more?</h2>
+        <p class="question-hint" id="hint">Trust your gut. Pick a trend.</p>
+        <div id="play-area"></div>
+        <div class="feedback" id="feedback" aria-live="polite"><span>Make your move.</span><span class="keyboard-tip">Use <kbd>1</kbd> or <kbd>2</kbd> to choose</span></div>
+      </section>
+      <div class="bottom-notes"><span><span class="tiny-star">✳</span> A little knowledge. A lot of intuition.</span><span id="best">PERSONAL BEST <strong>0</strong></span></div>
+    </main>
+    <footer><span>Made for curious minds.</span><span>Search interest, not search counts. <button id="footer-data">About the data ↗</button></span><span><a href="./credits.html">Image credits ↗</a></span></footer>
+  </div>
+  <dialog id="info-dialog"><div class="dialog-top"><span class="eyebrow">THE SMALL PRINT</span><button id="close-dialog" aria-label="Close dialog">✕</button></div><div id="dialog-content"></div></dialog>
+</body>
+</html>

@@ -1,0 +1,2207 @@
+{
+  "Bitcoin": {
+    "src": "./images/bitcoin.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Bitcoin.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2014-03-31 02:42:07",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Bitcoin",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "With trademark|PD textlogo|Valid SVG created with Text Editor|SVG text logos|Derivative versions|Bitcoin logos|Valid SVG created with Inkscape-hand",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Logo of <a href=\"https://en.wikipedia.org/wiki/Bitcoin\" class=\"extiw\" title=\"w:Bitcoin\">Bitcoin</a>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "This file was derived from:  <a href=\"//commons.wikimedia.org/wiki/File:Bitcoin_logo.svg\" title=\"File:Bitcoin logo.svg\">Bitcoin logo.svg</a><br>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Grayliptrot",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "Money Heist": {
+    "src": "./images/money-heist.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Money_Heist_Berlin_character.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2019-08-23 18:01:50",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Money Heist Berlin character",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Germany photographs taken on 2019-08-20|Gamescom 2019|Pedro Alonso|Money Heist|Red costumes|Flickr images reviewed by FlickreviewR 2|Files with coordinates missing SDC location of creation (50° N, 6° E)|TV series costumes|Files from dronepicr Flickr stream|Masks of Salvador Dalí|Flickr images missing SDC published in",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "GPSLatitude": {
+        "value": "50.946661",
+        "source": "commons-desc-page"
+      },
+      "GPSLongitude": {
+        "value": "6.983288",
+        "source": "commons-desc-page"
+      },
+      "GPSMapDatum": {
+        "value": "WGS-84",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Netflix Germany Money Heist",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2019-08-20 13:40",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/132646954@N02/48605916667/\">Netflix Germany House of Cards</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/132646954@N02\">dronepicr</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 2.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 2.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/2.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-2.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "Barbie": {
+    "src": "./images/barbie.jpg",
+    "source": "https://en.wikipedia.org/wiki/File:Barbie_2023_poster.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2025-05-20 20:10:35",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Barbie 2023 poster",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "All non-free media|Files with no machine-readable author|Files with no machine-readable description|Wikipedia non-free files with NFUR stated|Noindexed pages|Wikipedia non-free files with valid backlink|Film posters for English-language films|2020s American film posters|2020s British film posters|Barbie (franchise) images",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Credit": {
+        "value": "<p><a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20230702063747/https://www.carolinacinemas.com/lumina/movie/barbie\">Carolina Cinemas</a>\n</p>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Fair use",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "<a href=\"//en.wikipedia.org/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">Fair use</a> of copyrighted material in the context of <a href=\"//en.wikipedia.org/wiki/Barbie_(film)\" title=\"Barbie (film)\">Barbie (film)</a>",
+        "source": "commons-desc-page"
+      },
+      "NonFree": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      }
+    }
+  },
+  "Oppenheimer": {
+    "src": "./images/oppenheimer.jpg",
+    "source": "https://en.wikipedia.org/wiki/File:Oppenheimer_(film).jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2023-07-09 00:02:57",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Oppenheimer (film)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "All non-free media|Files with no machine-readable author|Files with no machine-readable description|Wikipedia non-free files with NFUR stated|Noindexed pages|Wikipedia non-free files with valid backlink|2020s American film posters",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Credit": {
+        "value": "<p><a rel=\"nofollow\" class=\"external text\" href=\"https://assets.gettyimages.com/bf-boulder-whitelabelbucket-getty-prod/p83rf4nzhg676c69qpb639/v/1109991157/original/386651id1_OPR_Final_27x40_1Sht_RGB.jpg\">Universal Pictures Publicity</a>\n</p>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Fair use",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "<a href=\"//en.wikipedia.org/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">Fair use</a> of copyrighted material in the context of <a href=\"//en.wikipedia.org/wiki/Oppenheimer_(film)\" title=\"Oppenheimer (film)\">Oppenheimer (film)</a>",
+        "source": "commons-desc-page"
+      },
+      "NonFree": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      }
+    }
+  },
+  "Minecraft": {
+    "src": "./images/minecraft.png",
+    "source": "https://en.wikipedia.org/wiki/File:Minecraft_game_logo_2023.png",
+    "metadata": {
+      "DateTime": {
+        "value": "2026-04-22 04:09:36",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Minecraft game logo 2023",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "All non-free logos|All non-free media|Files with no machine-readable author|Files with no machine-readable description|Other images that should be in SVG format|Wikipedia non-free files with NFUR stated|Noindexed pages|Wikipedia non-free files with valid backlink|Completed non-free use rationale logo transclusions",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Credit": {
+        "value": "<p>Minecraft game files\n</p>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Fair use",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "<a href=\"//en.wikipedia.org/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">Fair use</a> of copyrighted material in the context of <a href=\"//en.wikipedia.org/wiki/Minecraft\" title=\"Minecraft\">Minecraft</a>",
+        "source": "commons-desc-page"
+      },
+      "NonFree": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      }
+    }
+  },
+  "Fortnite": {
+    "src": "./images/fortnite.png",
+    "source": "https://commons.wikimedia.org/wiki/File:FortniteLogo.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2018-06-08 19:03:41",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "FortniteLogo",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "With trademark|PD textlogo|SVG text logos|Valid SVG created with Potrace:Text logos|Black logos with transparent background|SVG black text logos|Fortnite logos",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Fortnite logo.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2017-12-09",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "Used <i>File:Fortnite.png</i> as base and converted to SVG with <a rel=\"nofollow\" class=\"external text\" href=\"https://www.online-convert.com\">this site</a>.",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"https://en.wikipedia.org/wiki/Epic_Games\" class=\"extiw\" title=\"w:Epic Games\">Epic Games</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "Taylor Swift": {
+    "src": "./images/taylor-swift.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_(3).png",
+    "metadata": {
+      "DateTime": {
+        "value": "2025-10-16 05:26:29",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Taylor Swift at the 2023 MTV Video Music Awards (3)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Media from YouTube|Files from external sources with reviewed licenses|2023 MTV Video Music Awards|Taylor Swift in 2023|Still images of YouTube videos",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Taylor Swift at the [[w:2023 MTV Video Music Awards|2023 MTV Video Music Awards]]",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2023-09-13",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<bdi lang=\"en\" dir=\"ltr\"><a href=\"//commons.wikimedia.org/wiki/Commons:YouTube_files\" title=\"Commons:YouTube files\">YouTube</a>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.youtube.com/watch?v=dgaPo6pGrIc\"><bdi lang=\"\">#taylorswift on the #vmas pink carpet</bdi></a> – View/save archived versions on <a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/*/https://www.youtube.com/watch?v=dgaPo6pGrIc\">archive.org</a></bdi><br><a rel=\"nofollow\" class=\"external text\" href=\"https://web.archive.org/web/20230913171322/https://www.yutube.com/watch?v=dgaPo6pGrIc\">(See specific archived version)</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://youtube.com/@iHeartRadioCA\">iHeartRadioCA</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 3.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 3.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Attribution": {
+        "value": "iHeartRadioCA",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/3.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-3.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "Beyoncé": {
+    "src": "./images/beyonc.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Beyonc%C3%A9_-_Tottenham_Hotspur_Stadium_-_1st_June_2023_(10_of_118)_(52946364598)_(best_crop).jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2023-06-24 20:53:29",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Beyoncé - Tottenham Hotspur Stadium - 1st June 2023 (10 of 118) (52946364598) (best crop)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Extracted images|Beyonce - Tottenham Hotspur Stadium - Thursday 1st June 2023|Files from Raph PH Flickr stream",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Беёнсэ ў рамках сусветнага тура Renaissance World Tour на стадыёне «Тотэнхэм Хотспур» у Лондане 1 чэрвеня 2023 года",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2023-06-01 19:49",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/raph_ph/52946364598/\">BeyonceSpurs010623 (10 of 118)</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/69880995@N04\">Raph_PH</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 2.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 2.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/2.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-2.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "ChatGPT": {
+    "src": "./images/chatgpt.png",
+    "source": "https://commons.wikimedia.org/wiki/File:OpenAI_logo_2025_(symbol).svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2026-08-24 04:05:11",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "OpenAI logo 2025 (symbol)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "With trademark|PD textlogo|Files allowed to be overwritten by everyone|SVG text logos|Derivative versions|ChatGPT logos|2025 SVG logos",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "<a href=\"https://en.wikipedia.org/wiki/OpenAI\" class=\"extiw\" title=\"w:OpenAI\">OpenAI</a>'s blossom logo, used since February 2025",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2025-02-05",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "This file was derived from:  <a href=\"//commons.wikimedia.org/wiki/File:OpenAI_logo_2025.svg\" class=\"mw-redirect\" title=\"File:OpenAI logo 2025.svg\">OpenAI logo 2025.svg</a><br>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "OpenAI",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "Metaverse": {
+    "src": "./images/metaverse.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Reality_check_ESA384313.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2018-09-03 07:51:08",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Reality check ESA384313",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "HTC Vive|CC-BY-SA-3.0-IGO|ESOC|Images uploaded by Fæ|Content created by the European Space Agency|Images and videos depicting intentional intermixing of (related) realities|People wearing virtual reality headsets",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "A team of researchers at ESA’s mission control centre in Darmstadt, Germany, are investigating new concepts for controlling rovers on a planet and satellites in orbit.\n<p>One approach is to assess the latest developments in augmented and virtual reality and how they can be applied to the stringent operational and safety requirements of spaceflight, both robotic and human.\n“In one case, we are looking into emerging technologies such as virtual and augmented reality, working together with colleagues from ESA’s European Astronaut Centre in Cologne,” says Mehran Sarkarati.\n“In particular, we are developing prototypes in astronaut operations and training while identifying scenarios for interactive spacecraft and robotic control.”\nIn this image, Steffen Bamfaste, a data systems engineer, demonstrates how astronauts might train in future to extinguish a fire inside a lunar habitat.\nSimilar augmented reality technology holds promise for satellite control by means of virtual displays and advanced, integrated team communication capabilities.\nToday, engineers must upload a stack of commands to instruct a satellite to adjust its orbit or a rover to switch one of its onboard devices on or off, for example.\nIn future, perhaps they’ll do this with a simple wave of a hand.\nMore information\n</p>\nAdvanced Ground Software Applications Laboratory",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2017-09-28",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.esa.int/ESA_Multimedia/Images/2017/07/Reality_check\">https://www.esa.int/ESA_Multimedia/Images/2017/07/Reality_check</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "European Space Agency",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "C2.CARE, <a rel=\"nofollow\" class=\"external autonumber\" href=\"https://www.c2.care/\">[1]</a>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "CC BY-SA 3.0 igo",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution-Share Alike 3.0 igo",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Attribution": {
+        "value": "ESA, <a rel=\"nofollow\" class=\"external text\" href=\"https://creativecommons.org/licenses/by-sa/3.0/igo/\">CC BY-SA IGO 3.0</a>",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      }
+    }
+  },
+  "Squid Game": {
+    "src": "./images/squid-game.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Squid_Game_2021_vector_logo_english.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2025-01-16 19:15:40",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Squid Game 2021 vector logo english",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "With trademark|PD textlogo|SVG text logos|Valid SVG created with Other tools|Squid Game logos",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "English logo of <a href=\"https://en.wikipedia.org/wiki/Squid_Game\" class=\"extiw\" title=\"w:Squid Game\">Squid Game</a>, a South Korean survival thriller horror television series.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "circa 2021<div style=\"display: none;\">date QS:P,+2021-00-00T00:00:00Z/9,P1480,Q5727902</div>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://logos.fandom.com/wiki/Squid_Game/International_Titles?oldid=3583959\">Logopedia - Fandom</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a href=\"https://en.wikipedia.org/wiki/Netflix\" class=\"extiw\" title=\"w:Netflix\">Netflix</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "Bridgerton": {
+    "src": "./images/bridgerton.png",
+    "source": "https://en.wikipedia.org/wiki/File:Bridgerton_Title_Card.png",
+    "metadata": {
+      "DateTime": {
+        "value": "2020-12-26 22:28:12",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Bridgerton Title Card",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "All non-free media|Files with no machine-readable description|Wikipedia non-free files with NFUR stated|Noindexed pages|Non-free rationale as na|American drama series title cards",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Artist": {
+        "value": "Netflix",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.netflix.com/title/80232398\">https://www.netflix.com/title/80232398</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Fair use",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "<a href=\"//en.wikipedia.org/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">Fair use</a> of copyrighted material in the context of <a href=\"//en.wikipedia.org/wiki/Bridgerton\" title=\"Bridgerton\">Bridgerton</a>",
+        "source": "commons-desc-page"
+      },
+      "NonFree": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      }
+    }
+  },
+  "Wordle": {
+    "src": "./images/wordle.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Wordle_196_example.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2022-01-06 18:22:56",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Wordle 196 example",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Wordle|Browser games|PD shape|PD-shape missing SDC copyright status|Invalid SVG created with Other tools:Unicode|SVGs by Berrely",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "This is a screenshot, created by me, of a typical result of the online word-guessing game <a href=\"https://en.wikipedia.org/wiki/Wordle_(word_game)\" class=\"extiw\" title=\"w:Wordle (word game)\"><i>Wordle</i></a> (developed by Josh Wardle) - specifically, this is #196. Each row represents a guess; after each guess, the letters are marked with gray (if the letter is not in the answer), yellow (if the letter is in the answer but a different position), or green (if the letter is in the correct position.) The fourth row, being all green, is the correct answer.\nOwn work based on: <a href=\"//commons.wikimedia.org/wiki/File:Wordle_196_example.png\" title=\"File:Wordle 196 example.png\">Wordle 196 example.png</a>, converted to a SVG by <a href=\"//commons.wikimedia.org/wiki/User:Berrely\" class=\"mw-redirect\" title=\"User:Berrely\">Berrely</a>. As they are on wikibreak I have uploaded with offwiki permission, and it is PD-simple anyway",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2022-01-01",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "Screenshot of <a rel=\"nofollow\" class=\"external free\" href=\"https://www.powerlanguage.co.uk/wordle/\">https://www.powerlanguage.co.uk/wordle/</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Josh Wardle (website/game), <a href=\"//commons.wikimedia.org/wiki/User:Berrely\" class=\"mw-redirect\" title=\"User:Berrely\">Berrely</a> (vectorizing)",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "Sudoku": {
+    "src": "./images/sudoku.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Sudoku_Puzzle_by_L2G-20050714_standardized_layout.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2017-04-08 23:15:06",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Sudoku Puzzle by L2G-20050714 standardized layout",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "CC-Zero|Sudoku|Images which should use wikitable",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "A very easy Sudoku puzzle with a nice layout. It can be solved with the most elementary tactics.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2017-04-08",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<span typeof=\"mw:File\"><a href=\"//commons.wikimedia.org/wiki/File:Sudoku-by-L2G-20050714.svg\" class=\"mw-file-description\"><img src=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sudoku-by-L2G-20050714.svg/250px-Sudoku-by-L2G-20050714.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail\" decoding=\"async\" loading=\"lazy\" width=\"150\" height=\"150\" class=\"mw-file-element\" srcset=\"https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sudoku-by-L2G-20050714.svg/330px-Sudoku-by-L2G-20050714.svg.png?utm_source=commons.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x\" data-file-width=\"364\" data-file-height=\"364\"></a></span>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Tim Stellmach",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Zero, Public Domain Dedication",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "Wednesday": {
+    "src": "./images/wednesday.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Wednesday_(Netflix_TV_series)_logo.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2024-09-10 19:16:40",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Wednesday (Netflix TV series) logo",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "With trademark|PD textlogo|SVG text logos|Netflix television program logos|SVG logos of television programs of the United States|The Addams Family logos|Wednesday (television series)",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Official logo of the Netflix network's 2022 teen television series Wednesday",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2024-09-10",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.mgm.com/television/wednesday-series\">https://www.mgm.com/television/wednesday-series</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "MGM Television",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "Stranger Things": {
+    "src": "./images/stranger-things.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Stranger_Things_logo.png",
+    "metadata": {
+      "DateTime": {
+        "value": "2020-02-10 00:12:50",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Stranger Things logo",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Text logos|With trademark|PD textlogo|Logo images that should use vector graphics|PNG that should use vector graphics|Outlined text logos|Stranger Things logos",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Stranger Things logo",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2016-07-22",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "Netflix",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Netflix",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "Olympics": {
+    "src": "./images/olympics.png",
+    "source": "https://en.wikipedia.org/wiki/File:2024_Summer_Olympics_logo.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2026-07-12 00:04:43",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "2024 Summer Olympics logo",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Summer Olympics logos|All non-free media|Files with no machine-readable author|Files with no machine-readable description|SVG images of trademarks|Wikipedia non-free files with NFUR stated|Noindexed pages|Wikipedia images in SVG format|Wikipedia non-free files with redirect backlink|Wikipedia non-free files with valid backlink|Completed non-free use rationale logo transclusions",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Credit": {
+        "value": "<p>The logo is from the following website: <a rel=\"nofollow\" class=\"external free\" href=\"http://paris2024.org/\">http://paris2024.org/</a>\n</p>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Fair use",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "<a href=\"//en.wikipedia.org/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">Fair use</a> of copyrighted material in the context of <a href=\"//en.wikipedia.org/wiki/2024_Summer_Olympics\" title=\"2024 Summer Olympics\">2024 Summer Olympics</a>",
+        "source": "commons-desc-page"
+      },
+      "NonFree": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      }
+    }
+  },
+  "Super Bowl": {
+    "src": "./images/super-bowl.png",
+    "source": "https://en.wikipedia.org/wiki/File:Super_Bowl_logo.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2023-11-03 16:33:47",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Super Bowl logo",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Super Bowl logos|All non-free logos|All non-free media|Files with no machine-readable author|Files with no machine-readable description|SVG images of trademarks|Wikipedia non-free files with NFUR stated|Noindexed pages|Wikipedia images in SVG format|Wikipedia non-free files with valid backlink|Completed non-free use rationale logo transclusions",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Credit": {
+        "value": "<p>The logo may be obtained from Super Bowl.\n</p>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Fair use",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "<a href=\"//en.wikipedia.org/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">Fair use</a> of copyrighted material in the context of <a href=\"//en.wikipedia.org/wiki/Super_Bowl\" title=\"Super Bowl\">Super Bowl</a>",
+        "source": "commons-desc-page"
+      },
+      "NonFree": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      }
+    }
+  },
+  "Threads": {
+    "src": "./images/threads.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Threads_2026_logo.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2026-05-13 06:36:32",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Threads 2026 logo",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "With trademark|PD textlogo|SVG text logos|TOO-United States|SVG logos of websites of the United States|Threads logos|At sign in SVG",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Threads logo black 2026 revision",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2026-05-12",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.meta.com/brand/resources/instagram/threads/\">https://www.meta.com/brand/resources/instagram/threads/</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Meta Platforms, Inc.",
+        "source": "commons-desc-page"
+      },
+      "Permission": {
+        "value": "There are many logos and trademarks in the United States that are not protected by copyright because they are below the threshold of originality required for copyright protection. There are some cases that even logos and trademarks that have been judged to be copyrighted in foreign countries have also been judged not to be copyrighted in the United States. However, some logos and trademarks are copyrighted in the United States. See <a href=\"//commons.wikimedia.org/wiki/Commons:CRT/United_States#Threshold_of_originality\" class=\"mw-redirect\" title=\"Commons:CRT/United States\">COM:CRT/United States#Threshold of originality</a> for more information.",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "Bluesky": {
+    "src": "./images/bluesky.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Bluesky_Logo.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2024-02-11 14:47:39",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Bluesky Logo",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "With trademark|PD textlogo|SVG text logos|Valid SVG created with Text Editor:Text logos|SVG logos of social network websites|Bluesky Social logos",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Logo for <a href=\"https://en.wikipedia.org/wiki/Bluesky\" class=\"extiw\" title=\"w:Bluesky\">Bluesky</a>, a social platform. The butterfly logo originally premiered in December 2023, replacing a photo of clouds in a blue sky. This version of the logo is an update from the previous logo, lowering the focal convergence point of the four wings, and fixing symmetry between the wings.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2024-02-05",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "Own work using: <a rel=\"nofollow\" class=\"external free\" href=\"https://drive.google.com/drive/folders/1RDpuQOQMfM9mXQ61wUYWNZUbgvDc8r-n\">https://drive.google.com/drive/folders/1RDpuQOQMfM9mXQ61wUYWNZUbgvDc8r-n</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Eric Bailey",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "Dune": {
+    "src": "./images/dune.jpg",
+    "source": "https://en.wikipedia.org/wiki/File:Dune_Part_Two_poster.jpeg",
+    "metadata": {
+      "DateTime": {
+        "value": "2024-02-01 00:01:09",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Dune Part Two poster",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "All non-free media|Files with no machine-readable author|Files with no machine-readable description|Wikipedia non-free files with NFUR stated|Noindexed pages|Wikipedia non-free files with valid backlink|Film posters for English-language films|2020s American film posters|Dune (franchise) film posters",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Credit": {
+        "value": "<p><a rel=\"nofollow\" class=\"external text\" href=\"https://www.cinematerial.com/movies/dune-part-two-i15239678/p/uqgmbd8c\">CineMaterial</a>\n</p>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Fair use",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "<a href=\"//en.wikipedia.org/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">Fair use</a> of copyrighted material in the context of <a href=\"//en.wikipedia.org/wiki/Dune:_Part_Two\" title=\"Dune: Part Two\">Dune: Part Two</a>",
+        "source": "commons-desc-page"
+      },
+      "NonFree": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      }
+    }
+  },
+  "Wonka": {
+    "src": "./images/wonka.jpg",
+    "source": "https://en.wikipedia.org/wiki/File:Wonka_2023_film_poster.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2024-01-27 00:53:55",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Wonka 2023 film poster",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "All non-free media|Files with no machine-readable description|Wikipedia non-free files with NFUR stated|Noindexed pages|Film posters for English-language films|Wikipedia non-free files with NFUR stated (bot-assessed)|2020s American film posters|2020s British film posters",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Artist": {
+        "value": "Warner Bros. Pictures",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.cinematerial.com/movies/wonka-i6166392/p/s1aoyiok\">CineMaterial</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Fair use",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "<a href=\"//en.wikipedia.org/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">Fair use</a> of copyrighted material in the context of <a href=\"//en.wikipedia.org/wiki/Wonka_(film)\" title=\"Wonka (film)\">Wonka (film)</a>",
+        "source": "commons-desc-page"
+      },
+      "NonFree": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      }
+    }
+  },
+  "Pokémon Go": {
+    "src": "./images/pok-mon-go.png",
+    "source": "https://en.wikipedia.org/wiki/File:Pokemon_Go.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2025-03-19 00:06:06",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Pokemon Go",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Video game logos|Pokémon media files|All non-free logos|All non-free media|Files with no machine-readable author|Files with no machine-readable description|SVG images of trademarks|Wikipedia non-free files with NFUR stated|Noindexed pages|Wikipedia images in SVG format|Wikipedia non-free files with valid backlink|Completed non-free use rationale logo transclusions",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Credit": {
+        "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://1000logos.net/pokemon-go-logo/\">https://1000logos.net/pokemon-go-logo/</a>\n</p>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Fair use",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "<a href=\"//en.wikipedia.org/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">Fair use</a> of copyrighted material in the context of <a href=\"//en.wikipedia.org/wiki/Pok%C3%A9mon_Go\" title=\"Pokémon Go\">Pokémon Go</a>",
+        "source": "commons-desc-page"
+      },
+      "NonFree": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      }
+    }
+  },
+  "Clash Royale": {
+    "src": "./images/clash-royale.png",
+    "source": "https://en.wikipedia.org/wiki/File:Clash_Royale_game_logo.png",
+    "metadata": {
+      "DateTime": {
+        "value": "2016-07-19 06:06:12",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Clash Royale game logo",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Video game logos|All non-free logos|All non-free media|Files with no machine-readable author|Files with no machine-readable description|Wikipedia non-free files with NFUR stated|Noindexed pages|Wikipedia non-free files with valid backlink|Completed non-free use rationale logo transclusions",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Credit": {
+        "value": "<p>The logo is from the following website: <a rel=\"nofollow\" class=\"external free\" href=\"https://clashroyale.com/\">https://clashroyale.com/</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://clashroyale.com/\">Official website</a>\n</p>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Fair use",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "<a href=\"//en.wikipedia.org/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">Fair use</a> of copyrighted material in the context of <a href=\"//en.wikipedia.org/wiki/Clash_Royale\" title=\"Clash Royale\">Clash Royale</a>",
+        "source": "commons-desc-page"
+      },
+      "NonFree": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      }
+    }
+  },
+  "Among Us": {
+    "src": "./images/among-us.jpg",
+    "source": "https://en.wikipedia.org/wiki/File:Among_Us_cover_art.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2023-06-30 00:00:24",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Among Us cover art",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Xbox Series X and Series S game covers|Windows game covers|IOS game covers|Xbox One game covers|Android game covers|Nintendo Switch game covers|All non-free media|Files with no machine-readable author|Files with no machine-readable description|Wikipedia non-free files with NFUR stated|Noindexed pages|Wikipedia non-free files with valid backlink|Among Us images",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Credit": {
+        "value": "<p>May be found at the following website: <a rel=\"nofollow\" class=\"external free\" href=\"https://steamdb.info/app/945360/info/\">https://steamdb.info/app/945360/info/</a>\n</p>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Fair use",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "<a href=\"//en.wikipedia.org/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">Fair use</a> of copyrighted material in the context of <a href=\"//en.wikipedia.org/wiki/Among_Us\" title=\"Among Us\">Among Us</a>",
+        "source": "commons-desc-page"
+      },
+      "NonFree": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      }
+    }
+  },
+  "Fall Guys": {
+    "src": "./images/fall-guys.jpg",
+    "source": "https://en.wikipedia.org/wiki/File:Fall_Guys_cover.jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2020-09-25 00:12:35",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Fall Guys cover",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Windows game covers|PlayStation 4 game covers|All non-free media|Files with no machine-readable author|Files with no machine-readable description|Wikipedia non-free files with NFUR stated|Noindexed pages|Wikipedia non-free files with valid backlink",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Credit": {
+        "value": "<p>May be found at the following website: <style data-mw-deduplicate=\"TemplateStyles:r1333433106\">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:\"\\\"\"\"\\\"\"\"'\"\"'\"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url(\"//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg\")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url(\"//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg\")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url(\"//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg\")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url(\"//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg\")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain;padding:0 1em 0 0}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#bf3c2c)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#bf3c2c)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}}</style><cite class=\"citation web cs1\"><a rel=\"nofollow\" class=\"external text\" href=\"https://media.playstation.com/is/image/SCEA/fall-guys-ultimate-knockout-boxart-01-ps4-23jun20-en-hk?%24native_nt%24\">\"library_600x900_2x.jpg\"</a>. <i><a href=\"//en.wikipedia.org/wiki/PlayStation\" title=\"PlayStation\">PlayStation</a></i>.</cite><span title=\"ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=PlayStation&amp;rft.atitle=library_600x900_2x.jpg&amp;rft_id=https%3A%2F%2Fmedia.playstation.com%2Fis%2Fimage%2FSCEA%2Ffall-guys-ultimate-knockout-boxart-01-ps4-23jun20-en-hk%3F%24native_nt%24&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFile%3AFall+Guys+cover.jpg\" class=\"Z3988\"></span>\n</p>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Fair use",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "<a href=\"//en.wikipedia.org/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">Fair use</a> of copyrighted material in the context of <a href=\"//en.wikipedia.org/wiki/Fall_Guys\" title=\"Fall Guys\">Fall Guys</a>",
+        "source": "commons-desc-page"
+      },
+      "NonFree": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      }
+    }
+  },
+  "Eurovision": {
+    "src": "./images/eurovision.png",
+    "source": "https://en.wikipedia.org/wiki/File:Eurovision_Song_Contest_2025.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2026-04-01 18:49:19",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Eurovision Song Contest 2025",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Images with trademarks|All free in US media|Wikipedia images in SVG format|Wikipedia files not suitable for Commons|Files ineligible for copyright in the United States but not in their source countries",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "<p>The logo of the <a href=\"//en.wikipedia.org/wiki/Eurovision_Song_Contest\" title=\"Eurovision Song Contest\">Eurovision Song Contest</a> used from 2025 onwards.\n</p>",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://eurovision.tv/\">https://eurovision.tv/</a>\n</p>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "<p>18 August 2025\n</p>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<p><a href=\"//en.wikipedia.org/wiki/European_Broadcasting_Union\" title=\"European Broadcasting Union\">European Broadcasting Union</a>\n</p>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "PD",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "Coachella": {
+    "src": "./images/coachella.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Coachella18W1-18_(42058161311).jpg",
+    "metadata": {
+      "DateTime": {
+        "value": "2019-01-05 05:17:59",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Coachella18W1-18 (42058161311)",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Flickr images reviewed by FlickreviewR 2|Coachella 2018|Files from Raph PH Flickr stream",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Coachella18W1-18",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2018-04-13 17:12",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/raph_ph/42058161311/\">Coachella18W1-18</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/69880995@N04\">Raph_PH</a>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "CC BY 2.0",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Creative Commons Attribution 2.0",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "LicenseUrl": {
+        "value": "https://creativecommons.org/licenses/by/2.0",
+        "source": "commons-desc-page"
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "cc-by-2.0",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "TikTok": {
+    "src": "./images/tiktok.png",
+    "source": "https://en.wikipedia.org/wiki/File:TikTok.com_Screenshot.png",
+    "metadata": {
+      "DateTime": {
+        "value": "2025-06-09 07:19:44",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "TikTok.com Screenshot",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "All non-free media|Screenshots of web pages|Files with no machine-readable author|Files with no machine-readable description|Wikipedia non-free files with NFUR stated|Noindexed pages|Non-free images tagged for no reduction",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Artist": {
+        "value": "",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "Screenshot taken from their website using DevTools.",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Fair use",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "<a href=\"//en.wikipedia.org/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">Fair use</a> of copyrighted material in the context of <a href=\"//en.wikipedia.org/wiki/TikTok\" title=\"TikTok\">TikTok</a>",
+        "source": "commons-desc-page"
+      },
+      "NonFree": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      }
+    }
+  },
+  "Vine": {
+    "src": "./images/vine.png",
+    "source": "https://commons.wikimedia.org/wiki/File:Vine_wordmark.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2021-06-06 06:49:23",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Vine wordmark",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "With trademark|PD textlogo|SVG text logos|Valid SVG created with Other tools:Text logos|SVG logos of websites|SVG logos of technology companies|Logos of Vine (service)",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "The Vine Logo",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2014-12-06",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.vine.co\">http://www.vine.co</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Vine Labs, Inc.",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "Wimbledon": {
+    "src": "./images/wimbledon.png",
+    "source": "https://en.wikipedia.org/wiki/File:Wimbledon.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2024-11-23 00:05:26",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Wimbledon",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Tennis logos|All non-free logos|All non-free media|Files with no machine-readable author|Files with no machine-readable description|SVG images of trademarks|Wikipedia non-free files with NFUR stated|Noindexed pages|Wikipedia images in SVG format|Wikipedia non-free files with redirect backlink|Wikipedia non-free files with valid backlink|Completed non-free use rationale logo transclusions",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Credit": {
+        "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://shop.wimbledon.com/static/version1597927444/frontend/Vaimo/wimbledon/en_GB/images/logo-dark.svg\">https://shop.wimbledon.com/static/version1597927444/frontend/Vaimo/wimbledon/en_GB/images/logo-dark.svg</a>\n</p>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Fair use",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "<a href=\"//en.wikipedia.org/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">Fair use</a> of copyrighted material in the context of <a href=\"//en.wikipedia.org/wiki/The_Championships,_Wimbledon\" class=\"mw-redirect\" title=\"The Championships, Wimbledon\">The Championships, Wimbledon</a>",
+        "source": "commons-desc-page"
+      },
+      "NonFree": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "",
+        "source": "commons-desc-page",
+        "hidden": ""
+      }
+    }
+  },
+  "Oscars": {
+    "src": "./images/oscars.png",
+    "source": "https://en.wikipedia.org/wiki/File:Oscars_logo.svg",
+    "metadata": {
+      "DateTime": {
+        "value": "2024-09-19 16:14:35",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Oscars logo",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "All non-free logos|Academy Awards|All non-free media|Files with no machine-readable author|Files with no machine-readable description|SVG images of trademarks|Images with trademarks|Wikipedia non-free files with NFUR stated|Noindexed pages|Wikipedia images in SVG format|Wikipedia non-free files with valid backlink|Completed non-free use rationale logo transclusions",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Credit": {
+        "value": "<p><a rel=\"nofollow\" class=\"external text\" href=\"https://brand.oscars.org/the-oscars\">Oscars: AMPAS Brand Guide</a>\n</p>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Fair use",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "<a href=\"//en.wikipedia.org/wiki/Wikipedia:Non-free_use_rationale_guideline\" title=\"Wikipedia:Non-free use rationale guideline\">Fair use</a> of copyrighted material in the context of <a href=\"//en.wikipedia.org/wiki/Academy_Awards\" title=\"Academy Awards\">Academy Awards</a>",
+        "source": "commons-desc-page"
+      },
+      "NonFree": {
+        "value": "true",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "True",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      }
+    }
+  }
+}

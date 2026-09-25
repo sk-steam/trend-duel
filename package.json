@@ -1,0 +1,11 @@
+{
+  "name": "trend-duel",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test tests/engine.test.js tests/multiplayer.test.js",
+    "check": "node --check dist/app.js && node --check dist/data.js && node --check dist/engine.js && node --check dist/multiplayer-engine.js && node --check dist/rtc-room.js && node --check dist/multiplayer.js"
+  }
+}
